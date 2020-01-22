@@ -1,11 +1,11 @@
 # Site settings
 author: Karl Halder
-title: 
+title: Data Science Preop
 header-img: img/home-bg.png
 email: karl356kmlh@yahoo.com
 copyright_name: Karl Halder
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Getting started with Data Science course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Karl356kmlh
